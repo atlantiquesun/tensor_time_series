@@ -6,3 +6,4 @@
   - nasdaq100_dct.mat: the Nasdaq-100 dataset transformed along the third dimension (OHLC dimension) using **discrete cosine transform**
   - nasdaq100_dft.mat: the Nasdaq-100 dataset transformed along the third dimension (OHLC dimension) using **discrete Fourier transform**
   - nasdaq100_dwt.mat: the Nasdaq-100 dataset transformed along the third dimension (OHLC dimension) using **discrete wavelet transform**
+  - transform.m: transform nasdaq100.mat using different orthogonal transforms
